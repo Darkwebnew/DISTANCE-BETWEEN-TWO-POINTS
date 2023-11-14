@@ -1,4 +1,4 @@
-![image](https://github.com/Darkwebnew/DISTANCE-BETWEEN-TWO-POINTS/assets/143114486/f0926855-c7d6-468c-ba24-981f228eb439)# DISTANCE-BETWEEN-TWO-POINTS
+# DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
 To write a python program to find the distance two 2 points
